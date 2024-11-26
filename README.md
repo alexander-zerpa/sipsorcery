@@ -3,6 +3,8 @@
 ![](https://github.com/sipsorcery-org/sipsorcery/actions/workflows/sipsorcery-core-mac.yml/badge.svg) 
 ![](https://github.com/sipsorcery-org/sipsorcery/actions/workflows/examples-core-win.yml/badge.svg)
 
+# Fork to fix [#1241](https://github.com/sipsorcery-org/sipsorcery/issues/1241)
+
 ## What Is It?
 
 **This fully C# library can be used to add Real-time Communications, typically audio and video calls, to .NET applications.**
